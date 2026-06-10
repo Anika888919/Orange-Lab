@@ -38,7 +38,7 @@ Orange is an open-source data visualization and machine learning platform that e
 ![Test and Score](Test%20and%20score.png)
 
 ### 5. Export Results
-![Export](export.png)
+![Export](File%20export.png)
 
 ---
 
